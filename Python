@@ -1,109 +1,111 @@
+# 🐍 100 Python Interview Questions (Beginner to Advanced)
+
 ## 📘 Basic Level (Beginner)
-1. What is SQL?  
-2. What is a Database?  
-3. What are the types of SQL commands?  
-4. What is Primary Key?  
-5. What is Foreign Key?  
-6. What is UNIQUE Key?  
-7. What is the difference between Primary Key and UNIQUE Key?  
-8. What is NOT NULL constraint?  
-9. What is Default Constraint?  
-10. What is the difference between DELETE, TRUNCATE, and DROP?  
-11. What is the difference between WHERE and HAVING?  
-12. What are Joins in SQL?  
-13. What is INNER JOIN?  
-14. What is LEFT JOIN?  
-15. What is RIGHT JOIN?  
-16. What is FULL JOIN?  
-17. What is Self Join?  
-18. What is Cross Join?  
-19. What is Union and Union All?  
-20. What is the difference between UNION and UNION ALL?  
-21. What is Normalization?  
-22. What is Denormalization?  
-23. What is the difference between CHAR and VARCHAR?  
-24. What is the difference between SQL and MySQL?  
-25. What is Auto Increment in SQL?
+1. What is Python?
+2. What are the key features of Python?
+3. What are the different data types in Python?
+4. What is the difference between list, tuple, and set?
+5. What is a dictionary in Python?
+6. What is the difference between is and ==?
+7. How is Python interpreted?
+8. What are variables and how are they declared?
+9. What is the difference between Python 2 and Python 3?
+10. What is PEP 8?
+11. What is indentation in Python?
+12. What are functions in Python?
+13. What is the use of *args and **kwargs?
+14. What is the difference between local and global variables?
+15. What are conditional statements in Python?
+16. What are loops in Python?
+17. What is the difference between while and for loop?
+18. How do you handle exceptions in Python?
+19. What are the commonly used built-in functions in Python?
+20. What is the difference between range() and xrange()?
 
 ## 📗 Intermediate Level
-26. What is Subquery?  
-27. What is Nested Query?  
-28. What is Correlated Subquery?  
-29. What is Group By in SQL?  
-30. What is the difference between Group By and Order By?  
-31. What is the use of LIMIT in SQL?  
-32. How to find the Second Highest Salary in SQL?  
-33. How to find Duplicate Records in a table?  
-34. What is CTE (Common Table Expression)?  
-35. What is Temporary Table in SQL?  
-36. What is Window Function in SQL?  
-37. What is the difference between ROW_NUMBER(), RANK(), and DENSE_RANK()?  
-38. What is CASE Statement in SQL?  
-39. What is COALESCE in SQL?  
-40. What is NVL Function in SQL?  
-41. What is Indexing in SQL?  
-42. What is Clustered Index?  
-43. What is Non-Clustered Index?  
-44. What is the difference between Clustered and Non-Clustered Index?  
-45. What is View in SQL?  
-46. What is the difference between View and Table?  
-47. What is Stored Procedure?  
-48. What is the difference between Function and Stored Procedure?  
-49. What is Trigger in SQL?  
-50. What is Cursor in SQL?
+21. What are Python modules and packages?
+22. What is the use of the `__init__.py` file?
+23. How to import a module in Python?
+24. What is a lambda function?
+25. What is list comprehension?
+26. What is the difference between deep copy and shallow copy?
+27. What is recursion in Python?
+28. What are Python decorators?
+29. What are Python generators?
+30. What is the difference between iterable and iterator?
+31. What is the map() function?
+32. What is the filter() function?
+33. What is the zip() function?
+34. What is the enumerate() function?
+35. What are Python closures?
+36. What are Python data structures?
+37. What is the difference between append() and extend()?
+38. How to reverse a string in Python?
+39. What is the use of the pass statement?
+40. What are docstrings in Python?
 
 ## 📙 Advanced Level
-51. What is the ACID Property in SQL?  
-52. What is a Transaction in SQL?  
-53. What is the difference between COMMIT and ROLLBACK?  
-54. What is Savepoint in SQL?  
-55. What is the difference between IN and EXISTS?  
-56. What is the difference between DELETE and TRUNCATE?  
-57. What is Index Fragmentation?  
-58. What is the difference between RANK() and DENSE_RANK()?  
-59. How to fetch common records from two tables?  
-60. What is the difference between UNION and JOIN?  
-61. What is Pivot Table in SQL?  
-62. What is Case Sensitivity in SQL?  
-63. How to find the Nth Highest Salary?  
-64. How to get First 3 Maximum Salaries?  
-65. What is the difference between Drop, Delete, and Truncate?  
-66. How to calculate Age from Date of Birth in SQL?  
-67. What is Recursive Query in SQL?  
-68. What is the difference between Temporary Table and CTE?  
-69. How to find Odd and Even records in SQL?  
-70. What is JSON in SQL?  
-71. What is XML in SQL?  
-72. How to handle NULL values in SQL?  
-73. What is Dynamic SQL?  
-74. How to calculate Percentage in SQL?  
-75. How to find the Employees who earn more than their Manager?
+41. What is object-oriented programming in Python?
+42. What is a class and an object?
+43. What are the four pillars of OOP?
+44. What is inheritance in Python?
+45. What is multiple inheritance?
+46. What is the super() function?
+47. What is polymorphism in Python?
+48. What is encapsulation?
+49. What is abstraction?
+50. What are dunder/magic methods in Python?
+51. What is the use of `__str__()` and `__repr__()`?
+52. What is the difference between class method and static method?
+53. What is metaclass in Python?
+54. What are Python properties?
+55. What is monkey patching in Python?
+56. What is the Global Interpreter Lock (GIL)?
+57. What is the difference between multithreading and multiprocessing?
+58. What are Python’s memory management mechanisms?
+59. What is garbage collection in Python?
+60. What is the difference between @staticmethod and @classmethod?
 
-## 🧪 Real-Time Scenario Based
-76. How to find Duplicate Emails in the Employee Table?  
-77. How to get the Highest Salary in each Department?  
-78. How to find Employees joined in the last 3 months?  
-79. How to Display the First 5 Records in SQL?  
-80. How to find the Number of Employees in each Department?  
-81. How to find the Last 3 Records in SQL?  
-82. How to find Employees without Managers?  
-83. How to find the First Name starting with 'A'?  
-84. How to fetch Alternate Rows from a table?  
-85. How to swap two columns in SQL?  
-86. How to display the Duplicate Records with their Count?  
-87. How to find the Highest Salary without using MAX()?  
-88. How to fetch common records from two tables without JOIN?  
-89. How to delete Duplicate Records from a table?  
-90. How to find the Department with the highest Employee Count?
+## 🧪 Scenario Based / Real-Time Questions
+61. How to swap two numbers without using a third variable?
+62. How to remove duplicates from a list?
+63. How to count occurrences of each word in a string?
+64. How to check if a string is a palindrome?
+65. How to check if two strings are anagrams?
+66. How to find the factorial of a number using recursion?
+67. How to generate Fibonacci series?
+68. How to reverse a list without using reverse()?
+69. How to merge two dictionaries?
+70. How to convert list to string and vice versa?
+71. How to sort a dictionary by value?
+72. How to find the second largest number in a list?
+73. How to handle file operations in Python?
+74. How to check if a file exists in Python?
+75. How to read/write JSON data in Python?
+76. How to send an email using Python?
+77. How to make an API call using Python?
+78. How to scrape a website using Python?
+79. How to connect Python to a database?
+80. How to use regular expressions in Python?
 
-## ⚙️ Optimization Techniques
-91. How to Optimize SQL Queries?  
-92. What is Query Execution Plan?  
-93. How to Improve Query Performance?  
-94. What is Indexing?  
-95. What is Table Partitioning?  
-96. How to Avoid Deadlocks in SQL?  
-97. What is the use of EXISTS in SQL?  
-98. What is Query Optimization?  
-99. What is the Difference Between Stored Procedure and Function in SQL?  
-100. What is the difference between OLTP and OLAP in SQL?
+## ⚙️ Performance, Tools, and Libraries
+81. What is pip?
+82. What is virtualenv and venv?
+83. What is unittest in Python?
+84. What is pytest?
+85. What is the use of logging module?
+86. What are Python’s standard libraries?
+87. What is NumPy?
+88. What is Pandas?
+89. What is the difference between Series and DataFrame?
+90. What is matplotlib?
+91. What is seaborn?
+92. What is Scikit-learn?
+93. What is Flask?
+94. What is Django?
+95. What is the difference between Flask and Django?
+96. What is FastAPI?
+97. What is asynchronous programming in Python?
+98. How does async/await work?
+99. What are type hints in Python?
+100. How to handle large datasets in Python?
