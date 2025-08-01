@@ -6,7 +6,7 @@ Welcome to the ultimate collection of
 
 – curated, structured, and categorized for absolute clarity and depth.
 
-Whether you're a **job-seeking**, a **student preparing for tech interviews**, or a **working professional brushing up your knowledge**, this repository is built to serve as your personal guide to Python mastery.
+Whether you're a **job-seeking**, a **student preparing for tech interviews**, or a **working professional brushing up your knowledge**, this repository is built to serve as your personal guide to mastery.
 
 ---
 
